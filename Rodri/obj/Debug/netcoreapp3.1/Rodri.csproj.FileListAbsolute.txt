@@ -1,0 +1,13 @@
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.csprojAssemblyReference.cache
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.csproj.CoreCompileInputs.cache
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.AssemblyInfoInputs.cache
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.AssemblyInfo.cs
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.exe
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.deps.json
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.runtimeconfig.json
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.runtimeconfig.dev.json
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.dll
+E:\Escritorio\Spisso\HelpThePeople\Rodri\bin\Debug\netcoreapp3.1\Rodri.pdb
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.dll
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.pdb
+E:\Escritorio\Spisso\HelpThePeople\Rodri\obj\Debug\netcoreapp3.1\Rodri.genruntimeconfig.cache
